@@ -22,6 +22,12 @@ For PyPoll project the script is written to read the election data from csv file
 
   In Gihub created the repository and cloned to the local repository, after the analysis is completed commited the changes back to the repository.
 
+  ### The source of the code 
+  - Expert Learning Assistant
+  - Class videos
+  - Help from the tutor for GitHub repository set up.
+
+
 
 
 
